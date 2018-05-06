@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Car/bin/Debug/netcoreapp2.0/Car.deps.json
+/Users/koji/Repositories/Csharp/Car/bin/Debug/netcoreapp2.0/Car.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Car/bin/Debug/netcoreapp2.0/Car.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Car/bin/Debug/netcoreapp2.0/Car.dll
+/Users/koji/Repositories/Csharp/Car/bin/Debug/netcoreapp2.0/Car.pdb
+/Users/koji/Repositories/Csharp/Car/obj/Debug/netcoreapp2.0/Car.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Car/obj/Debug/netcoreapp2.0/Car.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Car/obj/Debug/netcoreapp2.0/Car.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Car/obj/Debug/netcoreapp2.0/Car.dll
+/Users/koji/Repositories/Csharp/Car/obj/Debug/netcoreapp2.0/Car.pdb
